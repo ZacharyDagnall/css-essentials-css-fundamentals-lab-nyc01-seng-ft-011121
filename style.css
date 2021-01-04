@@ -15,6 +15,7 @@ featured-property p {
 details {
   float: left;
   width: 25%;
+  background-color: red;
 }
 
 figcaption {
