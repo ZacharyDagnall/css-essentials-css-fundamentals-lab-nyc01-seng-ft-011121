@@ -16,3 +16,7 @@ details div {
   float: left;
   width: 25%;
 }
+
+figcaption {
+  font-size: 12px;
+}
